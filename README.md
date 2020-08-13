@@ -1,1 +1,1 @@
-microblog app
+basic and beautiful microblog application
